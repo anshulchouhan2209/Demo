@@ -4,5 +4,7 @@ function sum(x,y){
 function sub(){
     return x-y;
 }
-function div()
+function div(){
+    return x/y;
+}
 function multi()
